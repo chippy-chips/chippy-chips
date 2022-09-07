@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chippy-chips
 - I am hoping to go into game devolopment one day
-- 🌱 I’m currently learning c# on my own and javascript at school
-- 💞️ I’m looking to collaborate on a remake of a game
+- 🌱 I’m currently learning c# on my own and java at school
+- 💞️ I’m looking to collaborate someday
 - 📫 How to reach me ... Discord?
 
 <!---
